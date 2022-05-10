@@ -1,0 +1,47 @@
+HTML = HyperText Markup Language (Stucture)
+
+CSS = Cascading Style Sheets (Design/Presentation)
+
+JS = Javascript (Behaviour/Logic/Functionality)
+
+
+Frontend Development
+1. HTML
+2. CSS
+3. JS
+
+
+
+CSS Syntax
+
+selector { decleration block } = CSS Rule
+
+selector  + decleration block  = CSS Rule
+
+selector {
+		Property:Value;
+}
+
+Where to write the CSS Code ?
+1. Inside <head> tag
+2. Inline CSS
+3. External CSS
+			style.css or main.css
+			anil.css
+
+		<start_tag attribute="Value">Content Area</end_tag>
+
+
+Types of Tags
+
+	1. Singlular Tags Vs Paired Tags
+	2. Inline Tags Vs BlockLevel Tags 
+
+Inline Tags
+1. Dont start from new Line
+	Eg. <span></span>
+
+
+Block Level Tags
+1. Start from new LIne
+	<div></div>
